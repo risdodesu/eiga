@@ -1,0 +1,30 @@
+.main{
+    height: 100vh;
+    background: url("/src/assets/images/main.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.intro{
+    height: 250px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.title{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 1;
+    text-shadow: 5px 5px 5px black;
+    font-family: 'Poppins', sans-serif;
+}
+
+.title2{
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1;
+    text-shadow: 5px 5px 5px black;
+    font-family: 'Poppins', sans-serif;
+}
