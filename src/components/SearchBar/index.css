@@ -1,0 +1,19 @@
+.search-bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-box {
+    gap: 5px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.search-box-input {
+    color: white;
+    border: none;
+    background-color: transparent;
+    outline: none;
+}

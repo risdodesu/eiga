@@ -1,0 +1,23 @@
+.popular-card {
+    opacity: 100%;
+    width: 170px;
+    transition: 0.1s;
+    animation: ease;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.popular-card:hover{
+    opacity: 100%;
+    scale: 1.1;
+}
+
+.popular-overlay{
+    background: linear-gradient(180deg, rgb(30, 47, 64) 40%, transparent);
+    opacity: 100%;
+    transition: 0.5s;
+    animation: ease;
+    cursor: pointer;
+}
+.popular-overlay:hover{
+    opacity: 0%;
+}

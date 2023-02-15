@@ -1,0 +1,6 @@
+.upcoming-carousel{
+    background: linear-gradient(0deg, rgb(30, 47, 64) 40%, transparent);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

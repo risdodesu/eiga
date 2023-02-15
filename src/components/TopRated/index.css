@@ -1,0 +1,24 @@
+.top-rated-card {
+    opacity: 100%;
+    width: 170px;
+    transition: 0.1s;
+    animation: ease;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.top-rated-card:hover{
+    opacity: 100%;
+    scale: 1.1;
+}
+
+.top-rated-overlay{
+    background: linear-gradient(180deg, rgb(30, 47, 64) 40%, transparent);
+    opacity: 100%;
+    transition: 0.5s;
+    animation: ease;
+    cursor: pointer;
+}
+.top-rated-overlay:hover{
+    opacity: 0%;
+}

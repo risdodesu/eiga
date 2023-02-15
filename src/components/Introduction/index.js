@@ -1,4 +1,5 @@
 import { Container, Row, Col, Button } from "react-bootstrap";
+import './index.css'
 
 const Introduction = () => {
     return (
@@ -6,7 +7,7 @@ const Introduction = () => {
           <Container className="text-white d-flex justify-content-center align-item-center">
             <Row>
               <Col>
-                <div className="title">Hello Risdo,</div>
+                <div className="title">Hello Username,</div>
                 <div className="title2">Happy Watching !</div>
                 <div className="mt-3 text-center">
                 <Button variant="outline-warning">See All Movies</Button>
