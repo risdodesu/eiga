@@ -6,9 +6,12 @@
     background-position: center;
     overflow-x: hidden;
     overflow-y: auto;
-    padding: 0 20px 0 20px;
 }
 
 .title-sub{
-    color: #F2921D;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgb(30, 47, 64) 1%, transparent);
 }

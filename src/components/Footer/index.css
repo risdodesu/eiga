@@ -1,0 +1,13 @@
+.footer{
+    background-color: rgb(30, 47, 64);
+    width: 100vh;
+    color: white;
+}
+
+.footer-social a{
+    transition: 0.2s ease;
+}
+
+.footer-social a:hover{
+    scale: 1.3;
+}

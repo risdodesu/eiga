@@ -1,6 +1,40 @@
 .upcoming-carousel{
-    background: linear-gradient(0deg, rgb(30, 47, 64) 40%, transparent);
-    display: flex;
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+}
+
+.upcoming-title{
+    text-align: left;
+    font-size: 50px;
+    padding: 30px;
+}
+
+.upcoming-overview{
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+.upcoming-caption{
+    background: linear-gradient(0deg, rgb(30, 47, 64) 40%, transparent); 
+}
+
+.upcoming-btn{
     align-items: center;
     justify-content: center;
+    height: 40px;
+    width: 130px;
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 20px;
+    transition: 0.1s ease;
+}
+
+.upcoming-btn:hover{
+    width: 150px;
+    letter-spacing: 0.1rem;
+    align-content: center;
+    scale: 1.1;
 }

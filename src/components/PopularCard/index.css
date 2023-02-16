@@ -6,18 +6,19 @@
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
 .popular-card:hover{
     opacity: 100%;
     scale: 1.1;
 }
 
 .popular-overlay{
+    opacity: 0%;
+}
+.popular-overlay:hover{
     background: linear-gradient(180deg, rgb(30, 47, 64) 40%, transparent);
     opacity: 100%;
     transition: 0.5s;
     animation: ease;
     cursor: pointer;
-}
-.popular-overlay:hover{
-    opacity: 0%;
 }

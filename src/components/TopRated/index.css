@@ -13,12 +13,13 @@
 }
 
 .top-rated-overlay{
+    opacity: 0%;
+}
+
+.top-rated-overlay:hover{
     background: linear-gradient(180deg, rgb(30, 47, 64) 40%, transparent);
     opacity: 100%;
     transition: 0.5s;
     animation: ease;
     cursor: pointer;
-}
-.top-rated-overlay:hover{
-    opacity: 0%;
 }

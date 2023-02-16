@@ -4,6 +4,7 @@ import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
 import React, { useState } from 'react';
 import Offcanvas from 'react-bootstrap/Offcanvas';
+import "./index.css"
 
 function NavigationBar() {
   const [show, setShow] = useState(false);
@@ -22,7 +23,7 @@ function NavigationBar() {
           </Offcanvas.Body>
       </Offcanvas>
       
-      <Navbar bg="transparent" variant="dark" fixed='top' expand="lg">
+      <Navbar variant='dark' fixed='top' expand="lg">
         <Container fluid>
           <Navbar.Brand href="#">EIGA WATCH</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll" />
