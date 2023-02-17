@@ -10,4 +10,4 @@
    * yup: "^1.0.0"
 
 * Daftar fitur tambahan yang dibuat dalam project :
-Belum ada fitur tambahan, pada mini project kedua ini saya hanya memfokuskan persyaratan milestone 1 dan milestone 2 pada mini project ini serta tampilan User Interface.
+Belum ada fitur tambahan, pada mini project kedua ini saya hanya memfokuskan persyaratan milestone 1 dan milestone 2, serta tampilan User Interface.
