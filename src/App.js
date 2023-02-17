@@ -4,12 +4,12 @@ import Introduction from "./components/Introduction";
 import SearchBar from "./components/SearchBar";
 import Upcoming from "./components/Upcoming";
 import Container from 'react-bootstrap/Container';
-// import { Row, Col } from "react-bootstrap";
 import Footer from "./components/Footer";
 import PopularCard from "./components/PopularCard";
 import TopRated from "./components/TopRated";
 import Fade from 'react-reveal/Fade';
-import './index.css'
+// import Popular from "./components/Popular";
+// import './index.css'
 
 
 const App = () => {
@@ -39,7 +39,7 @@ const App = () => {
                 <TopRated/>
             </Container>
           </Fade>
-          <div className="mt-3">
+          <div className="mt-3 footer">
             <Footer/>
           </div>
       </div>

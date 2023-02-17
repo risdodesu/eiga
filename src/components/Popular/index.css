@@ -1,0 +1,21 @@
+.popular-wrapper{
+    margin-top: 50px;
+    width: 170px;
+    transition: 0.2s ease;
+}
+
+.popular-wrapper:hover{
+    width: 170px;
+    scale: 1.1;
+}
+
+.popular-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
