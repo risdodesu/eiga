@@ -10,4 +10,6 @@
    * yup: "^1.0.0" --> digunakan untuk validasi form dengan mudah
 
 * Daftar fitur tambahan yang dibuat dalam project :
-Belum ada fitur tambahan, pada mini project kedua ini saya hanya memfokuskan persyaratan milestone 1 dan milestone 2, serta tampilan User Interface.
+   * menambahkan library react elastic carousel untuk membuat carousel yang dinamis
+   * menambahkan library react reveal untuk animasi component
+   * menggunakan local storage untuk login session
