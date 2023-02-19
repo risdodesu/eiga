@@ -1,3 +1,6 @@
+Note : Kamu perlu membuat akun baru di https://www.themoviedb.org/signup
+untuk bisa login
+
 * List library yang digunakan dalam project :
    * axios: "^1.3.3" --> digunakan untuk request data
    * bootstrap: "^5.2.3" --> digunakan untuk styling css
