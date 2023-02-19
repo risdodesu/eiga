@@ -1,6 +1,8 @@
 Note : Kamu perlu membuat akun baru di https://www.themoviedb.org/signup
 untuk bisa login
 
+Website ini masih perlu pengembangan. Banyak fitur yang belum ada sebagaimana website movie database pada umumnya. Namun, itu dikarenakan waktu pengerjaan yang terbatas dan saya hanya berfokus pada requirement yang dibutuhkan saja. Terimakasih.
+
 * List library yang digunakan dalam project :
    * axios: "^1.3.3" --> digunakan untuk request data
    * bootstrap: "^5.2.3" --> digunakan untuk styling css
