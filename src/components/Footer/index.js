@@ -8,7 +8,7 @@ const Footer = () => {
             <Row>
                 <Col sm={6}>
                     <h3>EIGA WATCH</h3>
-                    <p>EIGA WATCH adalah website database film menggunakan data dari The Movie Database API yang ditujukan untuk memenuhi tugas mini project kedua Risdo Lihardo Saragih.</p>
+                    <p>EIGA WATCH adalah website database film menggunakan data dari The Movie Database API yang ditujukan untuk memenuhi tugas mini project kedua Risdo Lihardo Saragih dari dibimbing.id.</p>
                 </Col>
                 <Col sm={6}>
                     <h3>Find Me On</h3>
