@@ -29,7 +29,7 @@ const Introduction = () => {
             <Row>
               <Col>
                 <div className="title">Hello {username},</div>
-                <div className="title2">Happy Watching !</div>
+                <div className="title2">Welcome to Eiga Watch!</div>
                 <div className="mt-3 text-center">
                 <Button variant="outline-warning">See All Movies</Button>
                 </div>
