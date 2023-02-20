@@ -8,7 +8,7 @@ const IntroductionGuest = () => {
             <Row>
               <Col>
                 <div className="title">Hello,</div>
-                <div className="title2">Login first, so you can watch your favorite movies !</div>
+                <div className="title2">Login first, so you can find your favorite movies !</div>
                 <div className="mt-3 text-center">
                 <Button variant="outline-warning">See All Movies</Button>
                 </div>
